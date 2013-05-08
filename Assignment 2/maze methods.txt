@@ -1,0 +1,4 @@
+Class Maze:
+    """ A 2D maze. """
+
+    # Write your Maze methods here.
